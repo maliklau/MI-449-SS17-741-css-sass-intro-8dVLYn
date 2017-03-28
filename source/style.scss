@@ -4,7 +4,7 @@ a {
   color: $primary-color;
 }
 
-button {
+input[type="button"] {
   color: $primary-color;
   border-color: $primary-color;
   background: lighten($fifthcolor, 6%);
